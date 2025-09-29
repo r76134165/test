@@ -8,7 +8,9 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://www.surveycake.com/s/6GyX7',
+	'https://www.surveycake.com/s/m6ZBr',
+	'https://www.surveycake.com/s/z9ZnX',
+	'https://www.surveycake.com/s/ldZD3',
+	'https://www.surveycake.com/s/neZQa'
 ];
